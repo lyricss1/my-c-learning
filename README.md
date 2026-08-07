@@ -26,3 +26,8 @@ My C programming practice repo. Here I store course solutions, experiments, and 
 ### In Progress / Planned
 * [ ] C Logic & Flow
 * [ ] C Object Oriented Programming
+
+* [ ] Terminal Introduction to **Docker**
+* [ ] Terminal Version Control **Git**
+
+* [ ] Assembly Fundamentals
