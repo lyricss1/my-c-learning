@@ -1,19 +1,28 @@
 # C Learning
 
-My C programming practice
+![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
-Source:
-https://coddy.tech
+My C programming practice repo. Here I store course solutions, experiments, and custom code to understand low-level concepts.
+
+## Purpose
+* Learning C programming
+* Understanding pointers, memory management, and low-level concepts
+* Writing custom utilities and practice scripts
 
 ## Environment
+* **Compiler:** `gcc`
+* **OS:** Debian 13 trixie / Windows 11
+* **Course source:** [coddy.tech](https://coddy.tech)
 
-Compiler:
-gcc
+## Certificates
 
-OS:
-Debian 13 trixie
+### Completed
+* **C Fundamentals** — [Verify Certificate](https://coddy.tech/certifications/ru/IlMbaE-c-0xW5Z9)
 
-Windows 11
+<img src="src/cert1.jpg" alt="C Fundamentals Certificate" width="600"/>
 
-Purpose:
-Learning C programming and understanding lowlevel concepts
+### In Progress / Planned
+* [ ] C Logic & Flow
+* [ ] C Object Oriented Programming
