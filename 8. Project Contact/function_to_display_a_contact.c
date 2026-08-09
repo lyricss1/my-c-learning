@@ -46,7 +46,7 @@ void populateContact(struct Contact *cont){
         printf("Invalid phone number\n");
         return;
     }*/
-    printf("Contact populated successfully\n");
+    //printf("Contact populated successfully\n");
 }
 
 void displayContact(const struct Contact *cont){
