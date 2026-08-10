@@ -26,7 +26,6 @@ My C programming practice repo. Here I store course solutions, experiments, and 
 <img src="src/cert2_en.jpg" alt="C Logic & Flow Certificate" width="600"/>
 
 ### In Progress / Planned
-* [ ] C Logic & Flow
 * [ ] C Object Oriented Programming
 
 * [ ] Terminal Introduction to **Docker**
