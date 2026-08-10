@@ -19,10 +19,11 @@ My C programming practice repo. Here I store course solutions, experiments, and 
 ## Certificates
 
 ### Completed
-* **C Fundamentals** — [Verify Certificate](https://coddy.tech/certifications/ru/IlMbaE-c-0xW5Z9)
+* **C Fundamentals** — [Verify Certificate](https://coddy.tech/certifications/IlMbaE-c-0xW5Z9)
+* **C Logic & Flow** — [Verify Certificate](https://coddy.tech/certifications/IlMbaE-c-z2wlIY)
 
 <img src="src/cert1.jpg" alt="C Fundamentals Certificate" width="600"/>
-
+<img src="src/cert2.jpg" alt="C Logic & Flow Certificate" width="600"/>
 ### In Progress / Planned
 * [ ] C Logic & Flow
 * [ ] C Object Oriented Programming
