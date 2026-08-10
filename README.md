@@ -23,7 +23,7 @@ My C programming practice repo. Here I store course solutions, experiments, and 
 * **C Logic & Flow** — [Verify Certificate](https://coddy.tech/certifications/IlMbaE-c-z2wlIY)
 
 <img src="src/cert1.jpg" alt="C Fundamentals Certificate" width="600"/>
-<img src="src/cert2.jpg" alt="C Logic & Flow Certificate" width="600"/>
+<img src="src/cert2_en.jpg" alt="C Logic & Flow Certificate" width="600"/>
 
 ### In Progress / Planned
 * [ ] C Logic & Flow
